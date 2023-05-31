@@ -42,4 +42,3 @@ searchBtn.addEventListener("click", async() => {
     // document.querySelector('.weather').style.display = "block";
     document.querySelector('#heading').style.display = "none";
 })
-
